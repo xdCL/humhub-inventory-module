@@ -17,9 +17,9 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'End Time' => '',
-    'Start Time' => '',
-    'Adds an calendar for private or public events to your profile and mainmenu.' => 'Añade un calendario para eventos privados o publicos a tu perfil y menu principal.',
+    'End Time' => 'Hora de término',
+    'Start Time' => 'Hora de inicio',
+    'Adds an calendar for private or public events to your profile and mainmenu.' => 'Añade un calendario para eventos privados o públicos a tu perfil y menú principal.',
     'Adds an event calendar to this space.' => 'Añade un calendario de eventos a este espacio.',
     'All Day' => 'Todo el día',
     'Attending users' => 'Usuarios que asistirán',
@@ -27,7 +27,7 @@ return [
     'Declining users' => 'Usuarios que no asistirán',
     'Description' => 'Descripción',
     'End Date' => 'Fecha de fin',
-    'End time must be after start time!' => '¡La fecha de fin tiene que ser después de la fecha de inicio!',
+    'End time must be after start time!' => '¡La fecha de término tiene que ser después de la fecha de inicio!',
     'Event' => 'Evento',
     'Event not found!' => '¡Evento no encontrado!',
     'ID' => 'ID',
